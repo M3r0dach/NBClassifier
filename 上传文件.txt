@@ -1,0 +1,2 @@
+hdfs dfs -mkdir /input_2015081018
+hdfs dfs -put D:\NBClassifier\SAData.txt /input_2015081018
